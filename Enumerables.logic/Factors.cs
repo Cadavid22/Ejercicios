@@ -1,6 +1,6 @@
-﻿namespace Enumerables.logic
+﻿namespace Ejercicios
 {
-    public static class PrimeFactors
+    public static class Factors
     {
         public static List<int> GetPrimeFactors(int number)
         {

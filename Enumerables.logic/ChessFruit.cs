@@ -1,6 +1,6 @@
-﻿namespace Enumerables.logic
+﻿namespace Ejercicios
 {
-    public class chess
+    public class ChessFruit
     {
         public class HarvestField
         {

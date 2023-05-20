@@ -1,4 +1,4 @@
-﻿namespace Enumerables.logic
+﻿namespace Ejercicios
 {
     public static class Clock
     {
